@@ -1,9 +1,9 @@
-console.log('bilal')
+console.log("bilal");
 
-let inputa = document.querySelector('input');
+let inputa = document.querySelector("input");
 
-console.log(inputa)
+console.log(inputa);
 
-if (inputa.type == 'password') {
-  inputa.type = "text"
+if (inputa.type == "password") {
+  inputa.type = "text";
 }
